@@ -211,6 +211,7 @@ DEPENDENCIES
   hominid (>= 3.0.5)
   hpricot (>= 0.8.6)
   jquery-rails
+  pg
   quiet_assets (>= 1.0.1)
   rails (= 3.2.8)
   rolify (>= 3.2.0)
