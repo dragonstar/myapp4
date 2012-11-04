@@ -217,6 +217,7 @@ DEPENDENCIES
   devise (>= 2.1.2)
   devise_invitable (>= 1.1.1)
   email_spec (>= 1.2.1)
+  execjs
   factory_girl_rails (>= 4.1.0)
   friendly_id (~> 3.1)
   haml (>= 3.1.7)

@@ -10,6 +10,7 @@ group :assets do
 end
 gem "activerecord-postgresql-adapter"
 gem 'jquery-rails'
+gem 'execjs'
 gem "haml", ">= 3.1.7"
 gem "haml-rails", ">= 0.3.5", :group => :development
 gem "hpricot", ">= 0.8.6", :group => :development
