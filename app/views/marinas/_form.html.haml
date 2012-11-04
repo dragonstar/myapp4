@@ -1,0 +1,17 @@
+= simple_form_for(@marina) do |f|
+  = f.error_notification
+
+  .form-inputs
+    = f.input :name
+    = f.input :address
+    = f.input :address2
+    = f.input :town
+    = f.input :county
+    = f.input :nation
+
+
+
+
+
+  .form-actions
+    = f.button :submit
